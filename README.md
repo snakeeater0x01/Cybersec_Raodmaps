@@ -1,6 +1,10 @@
 # Cybersec_Raodmaps
 A small collection of some of the famous cybersec RoadMaps 
 
+> **Section I**: Cybersec & Certifications roadmaps
+> **Section II**: Useful Boocks
+
+# Cybersec & Certifications roadmaps
 ## Activedirectory
 ![alt text](https://github.com/ousbaailyas/Cybersec_Raodmaps/blob/master/active-directory-map.png)
 
@@ -43,3 +47,18 @@ A small collection of some of the famous cybersec RoadMaps
 ![Alt text](https://github.com/ousbaailyas/Cybersec_Raodmaps/blob/master/Security-Certification-Progression-Chart-v7.0.png)
 ![Alt text](https://github.com/ousbaailyas/Cybersec_Raodmaps/blob/master/E04K045XIAI9Ylx.jpeg)
 
+# Useful Boocks
+  you can get a bunch of books for free (pdf, epub, djvu, chm, mobi...)
+ ```
+ 
+🔍https://libgen.is
+🔍https://libgen.li
+🔍https://libgen.fun
+🔍https://z-lib.org/
+ ```
+
+![Alt text](https://github.com/ousbaailyas/Cybersec_Raodmaps/blob/master/Screen%20Shot%202022-02-21%20at%205.07.07%20PM.png)
+![Alt text](https://github.com/ousbaailyas/Cybersec_Raodmaps/blob/master/Screen%20Shot%202022-02-21%20at%205.07.17%20PM.png)
+![Alt text](https://github.com/ousbaailyas/Cybersec_Raodmaps/blob/master/Screen%20Shot%202022-02-21%20at%205.07.25%20PM.png)
+![Alt text](https://github.com/ousbaailyas/Cybersec_Raodmaps/blob/master/Screen%20Shot%202022-02-21%20at%205.07.35%20PM.png)
+![Alt text](https://github.com/ousbaailyas/Cybersec_Raodmaps/blob/master/Screen%20Shot%202022-02-21%20at%205.07.41%20PM.png)
