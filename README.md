@@ -37,6 +37,7 @@ A small collection of some of the famous cybersec RoadMaps
 
 # Offensive security certified professionnel OSCP
 ![Alt text](https://github.com/ousbaailyas/Cybersec_Raodmaps/blob/master/OSCP.JPG)
+![Alt text](https://github.com/ousbaailyas/Cybersec_Raodmaps/blob/master/Cyber.JPG)
 
 # Security Certification Progression
 ![Alt text](https://github.com/ousbaailyas/Cybersec_Raodmaps/blob/master/Security-Certification-Progression-Chart-v7.0.png)
