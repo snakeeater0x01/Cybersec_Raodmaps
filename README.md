@@ -1,9 +1,9 @@
 # Cybersec_Raodmaps
 A small collection of some of the famous cybersec RoadMaps 
 
-> **Section I**: [Cybersec & Certifications roadmaps](https://github.com/ousbaailyas/Cybersec_Raodmaps)
+> **Section I**: [Cybersec & Certifications roadmaps](https://github.com/ousbaailyas/Cybersec_Raodmaps#cybersec--certifications-roadmaps)
 
-> **Section II**: [Useful Books](https://github.com/ousbaailyas/Cybersec_Raodmaps#useful-boocks)
+> **Section II**: [Useful Books](https://github.com/ousbaailyas/Cybersec_Raodmaps#useful-books)
 
 # Cybersec & Certifications roadmaps
 ## Activedirectory
