@@ -1,9 +1,9 @@
 # Cybersec_Raodmaps
 A small collection of some of the famous cybersec RoadMaps 
 
-> **Section I**: Cybersec & Certifications roadmaps
+> **Section I**: [Cybersec & Certifications roadmaps](https://github.com/ousbaailyas/Cybersec_Raodmaps)
 
-> **Section II**: Useful Boocks
+> **Section II**: [Useful Books](https://github.com/ousbaailyas/Cybersec_Raodmaps#useful-boocks)
 
 # Cybersec & Certifications roadmaps
 ## Activedirectory
@@ -48,7 +48,8 @@ A small collection of some of the famous cybersec RoadMaps
 ![Alt text](https://github.com/ousbaailyas/Cybersec_Raodmaps/blob/master/Security-Certification-Progression-Chart-v7.0.png)
 ![Alt text](https://github.com/ousbaailyas/Cybersec_Raodmaps/blob/master/E04K045XIAI9Ylx.jpeg)
 
-# Useful Boocks
+# Useful Books
+
   you can get a bunch of books for free (pdf, epub, djvu, chm, mobi...)
  ```
  
