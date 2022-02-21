@@ -22,7 +22,7 @@ A small collection of some of the famous cybersec RoadMaps
 ![Alt text](https://github.com/ousbaailyas/Cybersec_Raodmaps/blob/master/exchange-server-map.png)
 
 ## Pentesting active directory
-![Alt text](https://github.com/ousbaailyas/Cybersec_Raodmaps/blob/master/Pentesting%20active%20directory.pdf)
+https://github.com/ousbaailyas/Cybersec_Raodmaps/blob/master/Pentesting%20active%20directory.pdf
 
 ## SMB
 ![Alt text](https://github.com/ousbaailyas/Cybersec_Raodmaps/blob/master/SMB.png)
