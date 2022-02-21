@@ -52,12 +52,17 @@ A small collection of some of the famous cybersec RoadMaps
 
   you can get a bunch of books for free (pdf, epub, djvu, chm, mobi...)
  ```
- 
 🔍https://libgen.is
+```
+```
 🔍https://libgen.li
+```
+```
 🔍https://libgen.fun
+```
+```
 🔍https://z-lib.org/
- ```
+```
 
 ![Alt text](https://github.com/ousbaailyas/Cybersec_Raodmaps/blob/master/Screen%20Shot%202022-02-21%20at%205.07.07%20PM.png)
 ![Alt text](https://github.com/ousbaailyas/Cybersec_Raodmaps/blob/master/Screen%20Shot%202022-02-21%20at%205.07.17%20PM.png)
