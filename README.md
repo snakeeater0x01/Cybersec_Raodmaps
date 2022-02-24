@@ -39,7 +39,7 @@ https://github.com/ousbaailyas/Cybersec_Raodmaps/blob/master/Pentesting%20active
 
 # OSINTFramework
 ![Alt text](https://github.com/ousbaailyas/Cybersec_Raodmaps/blob/master/OSINTFramework.JPG)
-![Watch more: OSINTframework](https://osintframework.com)
+[Watch more: OSINTframework](https://osintframework.com)
 
 # Offensive security certified professionnel OSCP
 ![Alt text](https://github.com/ousbaailyas/Cybersec_Raodmaps/blob/master/OSCP.JPG)
