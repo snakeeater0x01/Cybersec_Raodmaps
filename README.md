@@ -42,7 +42,7 @@ https://github.com/ousbaailyas/Cybersec_Raodmaps/blob/master/Pentesting%20active
 
 Watch more OSINT resources:
 ```
-https://osintframework.com)
+https://osintframework.com
 ```
 ```
 https://i-intelligence.eu/uploads/public-documents/OSINT_Handbook_2020.pdf
